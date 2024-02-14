@@ -6,6 +6,9 @@
 
 - <b>Azure/Cloud Projects</b>
   - [Configuring On-Premise Active Directory within AZURE-VMS](https://github.com/Vikaspatel18/AzureVM/tree/main)
+  - [Network-File-Shares-and-Permissions](https://github.com/Vikaspatel18/Networkpermissions)
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
