@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vikas! <br/><a href="https://github.com/joshmadakor1">Passionate IT Professional and Cybersecurity Analyst</a> 
+<h1>Hi, I'm Vikas! <br/><a href="https://github.com/Vikaspatel18">Passionate IT Professional and Cybersecurity Analyst</a> 
   
   <!--a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, </a href="https://www.youtube.com/c/joshmadakor">YouTuber</a--></h1>
 
@@ -22,7 +22,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Certifications</h2>
 
