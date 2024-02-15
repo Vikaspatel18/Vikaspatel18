@@ -13,7 +13,7 @@
   - [Wireshark Analysis](https://github.com/Vikaspatel18/WiresharkAnalysis)
     
   <b>Azure SOC</b>
-  - [Failed Authentication and Log Observation in AZURE](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Failed Authentication and Log Observation in AZURE](https://github.com/Vikaspatel18/Log-Observation)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
