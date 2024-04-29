@@ -14,7 +14,7 @@
     
   <b>Azure SOC</b>
   - [Failed Authentication and Log Observation in AZURE](https://github.com/Vikaspatel18/Log-Observation)
-  - [Security Recommandations](https://github.com/Vikaspatel18/Security-)
+  - [Windows 10 hardning](https://github.com/Vikaspatel18/Win10-Hardning)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [Common Helpdesk Tickets and Remediations](https://github.com/Vikaspatel18/Tshootguide)
     
